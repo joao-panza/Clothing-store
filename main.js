@@ -1,5 +1,5 @@
 let i = 0;
-let images = ['/images/jumpingover.jpg','/images/jumpingover2.jpg','/images/jumpingover3.jpg','/images/theboys.jpg'];
+let images = ['../images/jumpingover.jpg','../images/jumpingover2.jpg','../images/jumpingover3.jpg','../images/theboys.jpg'];
 let time = 4000;
 
 // Change image

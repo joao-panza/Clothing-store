@@ -93,14 +93,14 @@ header{
 
 .bloco1{
     margin-left:250px;;
-    background-image: url(/images/camisa.jpg);
+    background-image: url("../images/camisa.jpg");
     transition:1s;
     width:400px;
     height:550px;
 }
 
 .bloco2{
-    background-image: url(/images/tenis.jpg);
+    background-image: url("../images/tenis.jpg");
     transition:1s;
     width:400px;
     height:550px;
@@ -108,7 +108,7 @@ header{
 
 .bloco3{
     margin-right:250px;;
-    background-image: url(/images/acessorio.jpg);
+    background-image: url("../images/acessorio.jpg");
     transition:1s;
     width:400px;
     height:550px;
