@@ -206,3 +206,22 @@ footer img{
     width:30px;
     margin-left:7px;
 }
+
+/* LOGIN PAGE */
+
+.containerRegister{
+    background-color: green;
+    width:100%;
+    height:700px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.formRegister{
+    background-color: violet;
+    width:65%;
+    height:500px;
+
+}
