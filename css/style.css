@@ -212,7 +212,7 @@ footer img{
 .containerLogin{
     background-color: black;
     width:100%;
-    height:900px;
+    height:803px;
     display:flex;
     align-items: center;
     justify-content: center;
@@ -276,7 +276,7 @@ hr{
     margin-bottom: 3%;
 }
 
-#areYouNew{
+#areYouNew-alreadyHaveLink{
     font-size:1em;
     margin-left:5%;
 }
