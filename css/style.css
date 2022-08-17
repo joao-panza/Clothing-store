@@ -223,7 +223,6 @@ footer img{
     background-color: black;
     width:60%;
     height:500px;
-
 }
 
 .formLogin h2{
@@ -231,6 +230,7 @@ footer img{
     font-size:3em;
     margin-bottom: 0.5em;
     color:white;
+    display:inline-block;
 }
 
 .formLogin p{
@@ -244,12 +244,15 @@ footer img{
     margin-bottom: 1.2rem;
     margin-left: 1.6em;
     height:30px;
+    background-color: black;
+    border:1px solid white;
 }
 
 .formLogin a{
     text-decoration: none;
     color:rgb(180, 178, 178);
     transition: color 0.5s;
+    margin-left: 2%;
 }
 
 .formLogin a:hover{
@@ -269,6 +272,14 @@ footer img{
 .loginButton:hover{
     background-color: white;
     color:black;
+}
+
+.thrasherLogoYellow{
+    width:400px;
+    height:220px;
+    padding-right:15%;
+    padding-top: 3%;
+    float:right;
 }
 
 hr{
