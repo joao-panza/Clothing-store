@@ -209,19 +209,74 @@ footer img{
 
 /* LOGIN PAGE */
 
-.containerRegister{
-    background-color: green;
+.containerLogin{
+    background-color: black;
     width:100%;
-    height:700px;
+    height:900px;
     display:flex;
     align-items: center;
     justify-content: center;
 }
 
 
-.formRegister{
-    background-color: violet;
-    width:65%;
+.formLogin{
+    background-color: black;
+    width:60%;
     height:500px;
 
+}
+
+.formLogin h2{
+    font-family: 'Uchen', serif;
+    font-size:3em;
+    margin-bottom: 0.5em;
+    color:white;
+}
+
+.formLogin p{
+    font-family: 'Uchen', serif;
+    font-size: 1.3em;
+    margin-left: 1em;
+    color:white;
+}
+
+.formLogin input{
+    margin-bottom: 1.2rem;
+    margin-left: 1.6em;
+    height:30px;
+}
+
+.formLogin a{
+    text-decoration: none;
+    color:rgb(180, 178, 178);
+    transition: color 0.5s;
+}
+
+.formLogin a:hover{
+    color:white;
+}
+
+.loginButton{
+    background-color: black;
+    color:white;
+    width:6em;
+    height:2.5em;
+    font-family: 'Uchen', serif;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.loginButton:hover{
+    background-color: white;
+    color:black;
+}
+
+hr{
+    width:95%;
+    margin-bottom: 3%;
+}
+
+#areYouNew{
+    font-size:1em;
+    margin-left:5%;
 }
